@@ -6,4 +6,5 @@
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choikiyeop&layout=compact"><br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choikiyeop&show_icons=true&theme=react)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choikiyeop&show_icons=true&theme=react)<br />
+[![Solved.ac choikiyeop](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
