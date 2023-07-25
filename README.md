@@ -1,4 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HI%20render&fontSize=90)
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/#181717?style=github" /></a>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=render&fontSize=90)
 
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Java-6DB33F?style=flat&logo=Java&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a>  
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choikiyeop&layout=compact"><br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choikiyeop&show_icons=true&theme=react)
